@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crazycyy
+- 👋 Hi, I’m Siyuan Jing
 - 👀 I’m interested in both hardware and software; 
 - 🌱 I’m currently learning electrical and electronics computer engineering
 - 💞️ I’m looking to collaborate on 
