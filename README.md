@@ -43,3 +43,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=shadow_blue&layout=compact"width="45%"/> 
 </div>  
 
+## Visitors:
+<img src="https://profile-counter.glitch.me/ChingSsuyuan/count.svg"/>
