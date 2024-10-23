@@ -1,4 +1,4 @@
-# 💫 About Me        <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="100" height="50"/>
+# 💫 About Me        <span style="float: right;"><img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="120" height="50"/></span>
 - 👋 Hi, I’m Siyuan Jing
 - I’m interested in both hardware and software
 - I’m currently majoring in Electrical Computer Engineering 
