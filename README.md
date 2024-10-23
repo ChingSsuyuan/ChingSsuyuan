@@ -16,11 +16,12 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-yellow?logo=Flask&style=social)&nbsp;&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-yellow?logo=V&style=social)&nbsp;&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-black?logo=cpu&style=social)&nbsp;&nbsp;
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-black?logo=cpu&style=social)&nbsp;&nbsp;
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
