@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-black?logo=cpu&style=social)&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/> &nbsp;
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="30" height="30"/> &nbsp; 
