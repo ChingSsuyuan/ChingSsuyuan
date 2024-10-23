@@ -7,7 +7,7 @@
 
 ## 💻 Languages and Tools:
 
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![C]("https://img.shields.io/badge/-C-black?logo=c&style=social" alt="C" width="150" height="30")&nbsp;&nbsp;
 ![Cpp](https://img.shields.io/badge/-Cpp-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-yellow?logo=Flask&style=social)&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/> &nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="30" height="30"/> &nbsp; 
+<img src="https://https://github.com/ChingSsuyuan/Flexium/blob/9afd4967c69f386ec82487da61afd20eb1e71ae1/GitHub_Invertocat_Logo.svg.png" alt="Github" width="30" height="30"/> &nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="javascript" width="30" height="30" />
