@@ -1,6 +1,6 @@
-<table style="width: 100%;">
+<table style="width: 200%;">
   <tr>
-    <td style="text-align: left;"># 这是我的标题</td>
+    <td style="text-align: left;"># About Me</td>
     <td style="text-align: right;">
       <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="120" height="50"/>
     </td>
