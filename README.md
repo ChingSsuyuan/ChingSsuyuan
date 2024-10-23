@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-black?logo=cpu&style=social)&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://img.shields.io/badge/-Assembly-black?logo=microcontroller&style=social" alt="Assembly Badge">
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
