@@ -1,10 +1,9 @@
 # 💫 About Me
 - 👋 Hi, I’m Siyuan Jing
-- 👀 I’m interested in both hardware and software;
+-  I’m interested in both hardware and software;
   
-- ### I’m currently majoring in Electrical Computer Engineering  <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="120" height="50"/>
-
-- ⚡ Fun fact: once dream of becoming an architect, but now become an architect in computer filed
+- I’m currently majoring in Electrical Computer Engineering 
+- Fun fact: once dream of becoming an architect, but now become an architect in computer filed
 - Continue uploading codes and algorithms for different kinds of software and haredware structures
 
 ## 💻 Languages and Tools:
