@@ -44,4 +44,6 @@
 </div>  
 
 ## Visitors:
-<img src="https://profile-counter.glitch.me/ChingSsuyuan/count.svg"/>
+<div style="color: blue;">
+    <img src="https://profile-counter.glitch.me/ChingSsuyuan/count.svg" alt="Counter" />
+</div>
