@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-yellow?logo=Flask&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Cpp](https://img.shields.io/badge/-Cpp-black?logo=c&style=social)&nbsp;&nbsp;
+![Cpp](https://img.shields.io/badge/-Cpp-black?logo=Cpp&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
