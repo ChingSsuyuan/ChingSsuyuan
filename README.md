@@ -7,7 +7,7 @@
 
 ## 💻 Languages and Tools:
 
-![C]("https://img.shields.io/badge/-C-black?logo=c&style=social" alt="C" width="150" height="30")&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Cpp](https://img.shields.io/badge/-Cpp-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-yellow?logo=Flask&style=social)&nbsp;&nbsp;
