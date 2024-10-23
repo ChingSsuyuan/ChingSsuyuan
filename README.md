@@ -20,8 +20,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-black?logo=cpu&style=social)&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="20" height="20"/> &nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="20" height="20"/> &nbsp;<img  
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25"/> &nbsp;
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="25" height="25"/> &nbsp; 
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
