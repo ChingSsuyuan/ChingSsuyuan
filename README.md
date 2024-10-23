@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="javascript" width="30" height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/XilinxVivado_Logo.jpg/320px-XilinxVivado_Logo.jpg" alt="Vivado Logo" width="100" height="100"/>
+<img src="https://en.wikipedia.org/wiki/Vivado#/media/File:XilinxVivado_Logo.jpg" alt="Vivado Logo" width="100" height="100"/>
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
 
