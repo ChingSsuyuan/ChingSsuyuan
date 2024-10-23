@@ -1,7 +1,6 @@
 # 💫 About Me 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="margin: 0;">这是我的标题</h1>
-  <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="120" height="50"/>
+  <h1 style="margin: 0;">这是我的标题</h1> <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="120" height="50"/>
 </div>
 - 👋 Hi, I’m Siyuan Jing
 - I’m interested in both hardware and software
