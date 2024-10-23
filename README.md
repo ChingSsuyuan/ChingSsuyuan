@@ -1,4 +1,4 @@
-# 💫About Me
+# 💫 About Me
 - 👋 Hi, I’m Siyuan Jing
 - 👀 I’m interested in both hardware and software; 
 - 🌱 I’m currently learning electrical and electronics computer engineering
