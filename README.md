@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="javascript" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="MATLAB" width="30" height="30" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30" />>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30" />&nbsp;
 <img src="https://github.com/ChingSsuyuan/Flexium/blob/8d425aab370cd45a1b93e01ae1b3fc13cdedc22f/XilinxVivado_Logo.jpg" alt="Vivado Logo" width="100" height="35"/>&nbsp;
 <img src=https://github.com/ChingSsuyuan/Flexium/blob/e89aed3900531dd2786501271b001727dae63314/RISC-V-logo.svg.png alt="RISC Logo" width="120" height="30"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" />&nbsp;
