@@ -24,6 +24,7 @@
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="25" height="25"/> &nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="javascript" width="25" height="25" />
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
