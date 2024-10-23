@@ -28,5 +28,5 @@
 <img src="https://github.com/ChingSsuyuan/Flexium/blob/8d425aab370cd45a1b93e01ae1b3fc13cdedc22f/XilinxVivado_Logo.jpg" alt="Vivado Logo" width="90" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/colab/colab-original.svg" alt="javascript" width="30" height="30" />
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&langs_count=8&theme=default)
 
