@@ -27,5 +27,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://github.com/ChingSsuyuan/Flexium/blob/8d425aab370cd45a1b93e01ae1b3fc13cdedc22f/XilinxVivado_Logo.jpg" alt="Vivado Logo" width="80" height="35"/>
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=default)
 
