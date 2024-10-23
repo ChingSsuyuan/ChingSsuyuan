@@ -28,7 +28,7 @@
  
 ## 📊 GitHub Stats:
 
-<p align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=blue&layout=compact"width="55%"/> 
-</p>  
+</div>  
 
