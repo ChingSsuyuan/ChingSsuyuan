@@ -19,6 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jasixiedust&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jasixiedust&theme=rose&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasixiedust&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
