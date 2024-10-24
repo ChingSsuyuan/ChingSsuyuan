@@ -1,4 +1,4 @@
-# 💫 About Me  <img src="https://github.com/ChingSsuyuan/Flexium/blob/0261c4ef8771b28afeff22f49d64e19b3ee43c65/Boston_University_wordmark.svg.png" alt="BU Logo" width="70" height="30"/>
+# 💫 About Me  <img src="https://github.com/ChingSsuyuan/Siyuan_Project/blob/caa15478b037eb1360b510558a7aaf6d19cb2d13/pictures%20for%20profile/Boston_University_wordmark.svg.png" alt="BU Logo" width="70" height="30"/>
 
 <p align="center">
   <a href="https://github.com/ChingSsuyuan/readme-typing-svg">
