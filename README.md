@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ChingSsuyuan/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;SIYUAN%20JING%20;MAJOR%20IN%20;ELECTRICAL%20AND%20COMPUTER%20ENGINEERING;font=fira%20Code&center=true&width=800&height=40&color=ADD8E6&vCenter=true&pause=800&size=32" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;SIYUAN%20JING%20;MAJOR%20IN%20;ELECTRICAL%20AND%20COMPUTER%20ENGINEERING;BOSTON%20UNIVERSITY&center=true&width=800&height=40&color=ADD8E6&vCenter=true&pause=800&size=32" />
   </a>
 </p>
 
