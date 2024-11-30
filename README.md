@@ -44,7 +44,9 @@
 
 ## Projects: 
 ### [1.Image K-Means Segmentations](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow.git)
-
+| ![Image 1](Pictures/1920*1440.png) | ![Image 2](Pictures/1.png) | 
+|------------------------|------------------------|
+| Original Image   | Foreground Image    |
 ### [2.CPU Implement in Verilog](https://github.com/ChingSsuyuan/CPU_Implement_Verilog.git)
  
 ## GitHub Stats:
