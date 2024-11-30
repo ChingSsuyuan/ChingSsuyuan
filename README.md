@@ -55,7 +55,7 @@
 ## GitHub Stats:
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=shadow_blue&layout=compact"width="45%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingSsuyuan&theme=shadow_blue&layout=compact"width="65%"/> 
 </div>  
 
 ## Visitors:
