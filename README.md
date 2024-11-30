@@ -44,9 +44,9 @@
 
 ## Projects: 
 ### [1.Image K-Means Segmentations](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow.git)
-| ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png)) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
+| ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
 |------------------------|------------------------|
-| Original Image   | Foreground Image    |
+ Original Image   | Foreground Image    |
 ### [2.CPU Implement in Verilog](https://github.com/ChingSsuyuan/CPU_Implement_Verilog.git)
  
 ## GitHub Stats:
