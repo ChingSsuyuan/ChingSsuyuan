@@ -56,12 +56,6 @@
 |------------------------|------------------------|
 | CPU Design Schematic  | CPU Waveform    |
 
-
-### [CNN+Transformer-based Image Captioning System]()
-| ![Image 3](https://your-image-url.com/image1.png) | ![Image 4]() | 
-|------------------------|------------------------|
-| CNN Feature Extraction  | Transformer Captioning    |
-
 ## GitHub Stats:
 
 <div align="left">
