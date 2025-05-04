@@ -50,9 +50,9 @@
 
 ## Projects: 
 ### [1.CLIP-Pro: Image Captioning System](https://github.com/ChingSsuyuan/Clip_Pro_Caption.git)
-| ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
+| ![Image 00](https://github.com/ChingSsuyuan/Clip_Pro_Caption/blob/4571305f8a6e64d7a3caa97e2504d40b323592a0/checkpoints/p1.png) | ![Image 0](https://github.com/ChingSsuyuan/Clip_Pro_Caption/blob/4571305f8a6e64d7a3caa97e2504d40b323592a0/checkpoints/p2.png) | 
 |------------------------|------------------------|
- Original Image   | Foreground Image    |
+ Caption Generation  Example 1  | Caption Generation Example 2    |
 ### [2.Image K-Means Segmentations(Network Flow)](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow.git)
 | ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
 |------------------------|------------------------|
