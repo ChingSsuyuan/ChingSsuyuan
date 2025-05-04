@@ -53,7 +53,11 @@
 | ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
 |------------------------|------------------------|
  Original Image   | Foreground Image    |
-### [2.CPU Implement in Verilog](https://github.com/ChingSsuyuan/CPU_Implement_Verilog.git)
+### [2.Image K-Means Segmentations(Network Flow)](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow.git)
+| ![Image 1](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1920*1440.png) | ![Image 2](https://github.com/ChingSsuyuan/Image-Segmentation-By-Network-Flow/blob/b333afd9b6092247a9e6ac07b607b17b734dc898/Pictures/1.png) | 
+|------------------------|------------------------|
+ Original Image   | Foreground Image    |
+### [3.CPU Implement in Verilog](https://github.com/ChingSsuyuan/CPU_Implement_Verilog.git)
 | ![Image 3]( https://github.com/ChingSsuyuan/CPU_Implement_Verilog/blob/824c368b2396667f14397a4a7d7e41988461efb3/Design%20Schematics/CPU1.png) | ![Image 4](https://github.com/ChingSsuyuan/CPU_Implement_Verilog/blob/460033829c0336be8cc324d4e1cf62db5998eb88/Design%20Schematics/Cpu_Waveform.png) | 
 |------------------------|------------------------|
 | CPU Design Schematic  | CPU Waveform    |
