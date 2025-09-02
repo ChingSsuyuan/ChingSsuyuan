@@ -13,7 +13,7 @@
 - Continue uploading codes and algorithms for different kinds of software and haredware structures
 
 ## Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=Java&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Cpp](https://img.shields.io/badge/-Cpp-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
