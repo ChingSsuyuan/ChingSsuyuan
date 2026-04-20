@@ -53,14 +53,14 @@
 
 ## Projects: 
 
-### Full-Stack Web Development: [PrisLens Finance](https://www.marketradar.live/#top)
+### [PrisLens Finance](https://www.marketradar.live/#top)
 
-**MarketRadar** is a real-time market tracking platform designed for financial enthusiasts and investors. This project demonstrates comprehensive full-stack development capabilities, ranging from low-level data processing to high-level interactive UI design.
+**PrisLens Finance** is a real-time market tracking platform designed for financial enthusiasts and investors. 
 
 * **Key Features**:
     * **Real-time Data Streaming**: Integrated multiple financial APIs to deliver second-level market updates and dynamic data visualization.
     * **Interactive Terminal**: Features a built-in "Terminal View" for an immersive, command-line style quantitative data analysis experience.
-    * **Smart Economic Calendar**: Dynamically tracks and displays global financial events and key market milestones.
+  
 * **Tech Stack**:
     * **Frontend**: JavaScript + Vue (Responsive Design).
     * **Backend**: Python, Flask (API Orchestration & Logic).
