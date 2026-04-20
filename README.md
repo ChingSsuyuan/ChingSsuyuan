@@ -74,14 +74,14 @@
 <td width="50%" align="center">
 <b>Terminal View 1</b>
 
-<a href="https://www.marketradar.live/#top">
+<a href="https://www.marketradar.live/analysis.html?symbol=TSLA">
 <img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/Terminal.png" width="100%" alt="Terminal"/>
 </a>
 </td>
 <td width="50%" align="center">
 <b>Terminal View 2</b>
 
-<a href="https://www.marketradar.live/#top">
+<a href="https://www.marketradar.live/analysis.html?symbol=TSLA">
 <img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/Terminal1.png" width="100%" alt="Terminal Detail"/>
 </a>
 </td>
