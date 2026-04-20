@@ -52,6 +52,42 @@
 <!-- <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/>&nbsp;<img src="https://github.com/ChingSsuyuan/Siyuan_Project/blob/caa15478b037eb1360b510558a7aaf6d19cb2d13/pictures%20for%20profile/GitHub_Invertocat_Logo.svg.png" alt="Github" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30" />&nbsp;<img src="https://github.com/ChingSsuyuan/Siyuan_Project/blob/caa15478b037eb1360b510558a7aaf6d19cb2d13/pictures%20for%20profile/XilinxVivado_Logo.jpg" alt="Vivado Logo" width="110" height="35"/>&nbsp;<img src="https://github.com/ChingSsuyuan/Siyuan_Project/blob/caa15478b037eb1360b510558a7aaf6d19cb2d13/pictures%20for%20profile/RISC-V-logo.svg.png" alt="RISC Logo" width="130" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30" /></p> -->
 
 ## Projects: 
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Homepage</b>
+
+<a href="https://www.marketradar.live/#top">
+<img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/homepage.png" width="100%" alt="Homepage"/>
+</a>
+</td>
+<td width="50%" align="center">
+<b>Market Calendar</b>
+
+<a href="https://www.marketradar.live/#top">
+<img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/calendar.png" width="100%" alt="Calendar"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<b>Terminal View 1</b>
+
+<a href="https://www.marketradar.live/#top">
+<img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/Terminal.png" width="100%" alt="Terminal"/>
+</a>
+</td>
+<td width="50%" align="center">
+<b>Terminal View 2</b>
+
+<a href="https://www.marketradar.live/#top">
+<img src="https://github.com/ChingSsuyuan/pictures-for-profile/raw/main/Terminal1.png" width="100%" alt="Terminal Detail"/>
+</a>
+</td>
+</tr>
+</table>
+
 <!--- ### [1.CLIP-Pro: Image Captioning System AI Model](https://github.com/ChingSsuyuan/Clip_Pro_Caption.git)
 | ![Image 00](https://github.com/ChingSsuyuan/Clip_Pro_Caption/blob/4571305f8a6e64d7a3caa97e2504d40b323592a0/checkpoints/p1.png) | ![Image 0](https://github.com/ChingSsuyuan/Clip_Pro_Caption/blob/4571305f8a6e64d7a3caa97e2504d40b323592a0/checkpoints/p2.png) | 
 |------------------------|------------------------| 
